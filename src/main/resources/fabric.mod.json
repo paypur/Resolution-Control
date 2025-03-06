@@ -29,7 +29,7 @@
 	"mixins": [
 		"resolutioncontrol.mixins.json"
 	],
-	"accessWidener": "resolutioncontrol.accesswidener",
+	"accessWidener": "accesstransformer.cfg",
 	"depends": {
 		"fabricloader": ">=0.14.11",
 		"fabric": "*",
